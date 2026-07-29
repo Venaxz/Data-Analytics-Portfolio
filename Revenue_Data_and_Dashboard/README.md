@@ -1,23 +1,23 @@
 # Revenue Data and Dashboard
 
-Project Overview
+## Project Overview
 
 This project focuses on analyzing revenue data using Python and presenting insights through visualizations and dashboards.
 
- Objectives
+## Objectives
 
 - Analyze revenue trends.
 - Perform exploratory data analysis.
 - Visualize business performance.
 - Present findings using a dashboard.
 
-Tools Used
+## Tools Used
 
 - Python
 - Pandas
 - Jupyter Notebook
 
-Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Analysis
